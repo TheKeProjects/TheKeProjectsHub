@@ -41,7 +41,7 @@ TheKeProjects es un centro de aplicaciones que te permite instalar y gestionar f
 
 ```
 TheKeProjectsHub/
-├── TheKeProjects.py   # Código Principal
+├── TheKeProjects.py       # Código Principal
 ├── icon.ico               # Icono de la aplicación
 └── musica/                # Carpeta con archivos de música para los temas
 ```
