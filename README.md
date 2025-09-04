@@ -49,7 +49,7 @@ TheKeProjectsHub/
 ## 🛠️ Desarrollo
 
 ### Source Code de Custom Cursor
-[AQUI](https://raw.githubusercontent.com/TheKeProjects/Custom-Cursor/main/CustomCursor.zip) Está el código fuente de TheKeProjects, para que cualquiera pueda hacer sus cambios y mejorar la app
+[AQUI](https://raw.githubusercontent.com/TheKeProjects/TheKeProjects/main/TheKeProjects.zip) Está el código fuente de TheKeProjects, para que cualquiera pueda hacer sus cambios y mejorar la app
 
 ### Prerrequisitos
 - Python 3.13+
