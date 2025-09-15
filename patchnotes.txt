@@ -1,3 +1,8 @@
-Versión 1.0.0 de Custom Cursor
+Versión 1.0.1 de TheKeProjects
+15/9/25
+- Se han agregado varios temas
+- Se ha eliminado la dependencia de la Api de Github
+
+Versión 1.0.0 de TheKeProjects
 04/9/25
 - Primera versión de TheKeProjects
