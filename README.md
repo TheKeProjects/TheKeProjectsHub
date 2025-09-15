@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-1.0.0-success)]()
+[![Versión](https://img.shields.io/badge/Versión-1.0.1-success)]()
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-informational)](https://www.microsoft.com/windows)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)]()
 
@@ -48,7 +48,7 @@ TheKeProjectsHub/
 
 ## 🛠️ Desarrollo
 
-### Source Code de Custom Cursor
+### Source Code de TheKeProjects
 [AQUI](https://raw.githubusercontent.com/TheKeProjects/TheKeProjectsHub/main/TheKeProjects.zip) Está el código fuente de TheKeProjects, para que cualquiera pueda hacer sus cambios y mejorar la app
 
 ### Prerrequisitos
@@ -72,6 +72,7 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
+| 1.0.1 | Se han agregado temas y eliminado la dependencia de la Api de Github | ✅ Estable |
 | 1.0.0 | Primera versión del TheKeProjects | ✅ Estable |
 
 <div align="center">
