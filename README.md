@@ -73,7 +73,7 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
 | 1.0.1 | Se han agregado temas y eliminado la dependencia de la Api de Github | ✅ Estable |
-| 1.0.0 | Primera versión del TheKeProjects | ✅ Estable |
+| 1.0.0 | Primera versión del TheKeProjects | 🚫 Obsoleta |
 
 <div align="center">
 
