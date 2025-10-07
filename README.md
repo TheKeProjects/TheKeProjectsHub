@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Versión](https://img.shields.io/badge/Versión-1.0.1-success)]()
+[![Versión](https://img.shields.io/badge/Versión-1.0.2-success)]()
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-informational)](https://www.microsoft.com/windows)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)]()
 
@@ -72,6 +72,7 @@ Si encuentras algún problema, por favor [crea un issue](https://github.com/TheK
 
 | Versión | Características | Estado |
 | :--- | :--- | :--- |
+| 1.0.2 | Se hamejorado la estructura y optimizado varias funciones | ✅ Estable |
 | 1.0.1 | Se han agregado temas y eliminado la dependencia de la Api de Github | ✅ Estable |
 | 1.0.0 | Primera versión del TheKeProjects | 🚫 Obsoleta |
 
