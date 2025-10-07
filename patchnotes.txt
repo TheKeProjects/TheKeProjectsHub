@@ -1,3 +1,8 @@
+Versión 1.0.2 de TheKeProjects
+07/10/25
+- Se han mejorado la estructura del proyecto
+- Se han optimizado algunas funciones
+
 Versión 1.0.1 de TheKeProjects
 15/9/25
 - Se han agregado varios temas
