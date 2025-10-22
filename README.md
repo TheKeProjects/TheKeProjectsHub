@@ -40,10 +40,28 @@ TheKeProjects es un centro de aplicaciones que te permite instalar y gestionar f
 ## 📦 Estructura del proyecto
 
 ```
-TheKeProjectsHub/
-├── TheKeProjects.py       # Código Principal
-├── icon.ico               # Icono de la aplicación
-└── musica/                # Carpeta con archivos de música para los temas
+TheKeProjects/
+├── TheKeProjects.py              # Código Principal
+├── icon.ico                      # Icono de la aplicación
+├── themes.py                     # Gestión de temas
+├── settings_manager.py           # Administrador de configuración
+├── music_manager.py              # Gestor de música
+├── update_manager.py             # Gestor de actualizaciones
+├── ui_components.py              # Componentes de interfaz
+├── title_bar.py                  # Barra de título personalizada
+├── audio_controls.py             # Controles de audio
+├── theme_menu.py                 # Menú de temas
+├── patchnotes_view.py            # Vista de notas de parche
+├── apps_data.py                  # Datos de aplicaciones
+├── app_info_loader.py            # Cargador de información de apps
+├── app_installer.py              # Instalador de aplicaciones
+├── app_card.py                   # Tarjetas de aplicaciones
+├── installed_apps_detector.py    # Detector de apps instaladas
+├── main_view.py                  # Vista principal
+├── hub_update_urls.py            # URLs de actualización
+├── config.py                     # Configuración
+├── setup.py                      # Script de instalación
+└── musica/                       # Carpeta con archivos de música para los temas
 ```
 
 ## 🛠️ Desarrollo
