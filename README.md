@@ -60,7 +60,6 @@ TheKeProjects/
 ├── main_view.py                  # Vista principal
 ├── hub_update_urls.py            # URLs de actualización
 ├── config.py                     # Configuración
-├── setup.py                      # Script de instalación
 └── musica/                       # Carpeta con archivos de música para los temas
 ```
 
